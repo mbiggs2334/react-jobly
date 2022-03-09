@@ -1,0 +1,33 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.35);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.24);
+}
+
+nav a {
+    margin: 0 .75rem;
+    color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: rgb(0, 114, 160);
+}
+
+.Nav-home a {
+    font-size: 1.5rem;
+    margin-left: .35rem;
+}
+
+.Nav-dir a {
+    margin-right: .35rem;
+    font-size: 1.2rem;
+}
+
+.Nav-dir {
+    display: flex;
+    flex-direction: row;
+}
+

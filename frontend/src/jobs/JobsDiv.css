@@ -1,0 +1,38 @@
+.Job {
+    border: 1px solid rgba(0, 0, 0, 0.452);
+    border-radius: 5px; 
+    padding: 2rem 4rem;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    transition: all .2s ease;
+    margin-bottom: 2rem;
+}
+
+.Job a {
+    text-decoration: none;
+    color: rgb(0, 183, 255);
+}
+
+.Job a:hover {
+    color: rgb(0, 114, 160);
+}
+
+.Job-title {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.Job-company-link {
+    font-size: 1.5rem;
+    margin-bottom: .5rem;
+    margin-top: .2rem;
+}
+
+.Job-details {
+    margin-top: 0;
+    font-size: 1.1rem;
+}
+
+.Job button {
+    font-size: 1.1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.CompanyDetails {
+    width: 30vw;
+}
+
+.CompanyDetails-header {
+    font-size: 3.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.CompanyDetails-desc {
+    font-size: 1.3rem;
+}
+
+.CompanyDetails-company {
+    margin-bottom: 3rem;
+}
+
+.CompanyDetails-jobs-header {
+    font-size: 2.8rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    text-decoration: underline;
+}

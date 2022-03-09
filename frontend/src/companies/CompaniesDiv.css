@@ -1,0 +1,17 @@
+.Company {
+    border: 1px solid rgba(0, 0, 0, 0.452);
+    border-radius: 5px; 
+    padding: 1rem 1.5rem;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    transition: all .2s ease;
+}
+
+.Company:hover{
+    color: rgb(0, 183, 255);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
+
+.Company-header {
+    font-size: 2rem;
+    margin: 1rem 0;
+}

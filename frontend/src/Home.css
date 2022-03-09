@@ -1,0 +1,38 @@
+.Home {
+    margin-top: 18vh;
+    text-align: center;
+}
+
+.Home-header {
+    font-size: 4.5rem;
+    margin-bottom: 1rem
+}
+
+.Home-description {
+    margin: 0;
+    font-size: 1.3rem;
+    margin-bottom: 1.8rem;
+}
+
+.Home-welcome {
+    margin-top: -.8rem;
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+
+.Home a {
+    color: rgb(0, 183, 255);
+    margin: 1rem;
+    font-size: 1.5rem;
+    background-color: rgba(3, 162, 224, 0.096);
+    padding: .2rem .5rem;
+    border-radius: 5px;
+    border: rgba(0, 0, 0, 0.349) solid .1px;
+    border-width: thin;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.157);
+    text-decoration: none;
+}
+
+.Home a:hover {
+    color: rgb(0, 114, 160);
+}

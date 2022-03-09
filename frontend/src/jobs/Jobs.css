@@ -1,0 +1,15 @@
+.Jobs {
+    display: flex;
+    flex-direction: column;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 0 5vw;
+}
+
+.Jobs-header {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    text-decoration: underline;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.157);
+}
